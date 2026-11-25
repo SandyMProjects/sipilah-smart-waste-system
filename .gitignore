@@ -1,0 +1,10 @@
+# File kredensial WiFi & Telegram
+secrets.h
+
+# Dokumen naskah mentah jurnal
+*.doc
+*.docx
+
+# File sistem & sementara
+.DS_Store
+Thumbs.db
